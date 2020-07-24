@@ -1,0 +1,9 @@
+Sample and simple responsive web site that uses Html 
+& offline" javascript, css, bootstrap" files.
+
+-try to resize page.
+
+
+-this page can be used as a template to build your website.
+
+
